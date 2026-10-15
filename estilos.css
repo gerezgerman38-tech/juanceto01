@@ -1,0 +1,43 @@
+body {background-image: url('https://www.lanacion.com.ar/resizer/v2/geronimo-momo-benavides-el-influencer-oriundo-de-TSOTGZ5LGJE33IH6YE7XOTM7PM.jpg?auth=db95f4db0667628e04d60bb925bdbeb381d06c157e013bec9ea8bc6121a37e12&width=1200&height=800&quality=70&smart=true')}
+h1 {color: #13A199;}
+.coloro {color: #BD1C28;}
+
+
+
+
+
+.colori {color: #FFA200;}
+h1 {
+
+  font-family: 'Silkscreen', cursive, sans-serif;
+  font-size: 5rem;
+  font-weight: 700;
+
+
+  color: #ff4b60;
+
+
+  transform: rotate(-3deg);
+  display: inline-block;
+
+text-shadow:
+
+    -3px -3px 0 #fff,
+     3px -3px 0 #fff,
+    -3px  3px 0 #fff,
+     3px  3px 0 #fff,
+    -4px  0px 0 #fff,
+     4px  0px 0 #fff,
+     0px -4px 0 #fff,
+     0px  4px 0 #fff,
+
+
+    5px  5px 0px rgba(0, 0, 0, 0.8);
+
+
+  letter-spacing: 2px;
+
+    border-bottom: 6px solid #ff0000;
+    padding-bottom: 4px;
+    display: inline-block;
+  }
