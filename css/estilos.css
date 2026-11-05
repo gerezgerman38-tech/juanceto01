@@ -15,9 +15,18 @@ height: 80px}
 .logo{border-radius: 50%}
 .logo{width: 250px; height: 250px}
 
+nav{background-color: #48B9E0;
+  display: flex;
+justify-content:space-around;  align-items: center;
+margin-top: 30px;
+ padding: 15px;}
+
 footer{display: flex;
 justify-content: space-around;align-items: center;
 flex-wrap: wrap;}
+
+button{color: #2323A1;
+background-color: #DEDEFC;}
 
 h1 {color: #13A199;}
 .coloro {color: #BD1C28;}
